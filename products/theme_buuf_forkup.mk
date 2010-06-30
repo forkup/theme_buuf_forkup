@@ -44,6 +44,7 @@ ifdef BUUF_WITH_GOOGLE
         vendor/theme_buuf_forkup/proprietary_buuf/gtalkservice.apk:system/app/gtalkservice.apk \
 	vendor/theme_buuf_forkup/proprietary_buuf/HTC_IME.apk:system/app/HTC_IME.apk \
         vendor/theme_buuf_forkup/proprietary_buuf/LatinImeTutorial.apk:system/app/LatinImeTutorial.apk \
+	vendor/theme_buuf_forkup/proprietary_buuf/Launcher.apk:system/app/Launcher.apk \
         vendor/theme_buuf_forkup/proprietary_buuf/Maps.apk:system/app/Maps.apk \
         vendor/theme_buuf_forkup/proprietary_buuf/MarketUpdater.apk:system/app/MarketUpdater.apk \
         vendor/theme_buuf_forkup/proprietary_buuf/MediaUploader.apk:system/app/MediaUploader.apk \
